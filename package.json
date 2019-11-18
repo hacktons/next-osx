@@ -90,7 +90,7 @@
     "babel-runtime": "^6.26.0",
     "electron-forge": "^5.2.2",
     "electron-prebuilt-compile": "2.0.7",
-    "eslint": "^3",
+    "eslint": "^4",
     "eslint-config-airbnb": "^15",
     "eslint-plugin-import": "^2",
     "eslint-plugin-jsx-a11y": "^5",
