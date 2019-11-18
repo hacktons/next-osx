@@ -1,0 +1,56 @@
+[
+    {
+        "type": "package",
+        "name": "检测广点通",
+        "value": "com.wuba.manufacture.GDTInstanceImpl",
+        "description": "检测是否包含广点通广告"
+    },
+    {
+        "type": "package",
+        "name": "检测腾讯灯塔SDK",
+        "value": "com.wuba.launch.impl.TencentBeaconImpl",
+        "description": "检测是否包含腾讯灯塔SDK"
+    },
+    {
+        "type": "package",
+        "name": "检测友盟SDK",
+        "value": "com.umeng",
+        "description": "检测是否包含友盟SDK"
+    },
+    {
+        "type": "package",
+        "name": "检测LeakCanary",
+        "value": "com.ganji.test.Leakupload",
+        "description": "检测是否包含LeakCanary库"
+    },
+    {
+        "type": "package",
+        "name": "检测BlockCanary",
+        "value": "com.github.moduth.blockcanary",
+        "description": "检测是否包含BlockCanary库"
+    },
+    {
+        "type": "specific_file",
+        "name": "检测百度秋实包",
+        "value": "baiduLog",
+        "file": "assets/special_company/company",
+        "description": "检测是否为百度特殊包"
+    },
+    {
+        "type": "specific_file",
+        "name": "检测渠道58585858",
+        "value": "58585858",
+        "file": "assets/wuba_channel/channel",
+        "description": "检测是否为基础包"
+    },
+    {
+        "type": "big_image",
+        "name": "检查大图片，尺寸和文件大小",
+        "value": "image",
+        "config": {
+            "oom": "5242880",
+            "size": "51200"
+        },
+        "description": "检测安装包内的图片资源，是否超出标准"
+    }
+]

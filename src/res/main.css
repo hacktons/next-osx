@@ -1,0 +1,9 @@
+.terminal pre {
+    margin-top:0px;
+}
+/**
+* 表单禁用颜色
+*/
+select[disabled]{
+    color: gray;
+}
