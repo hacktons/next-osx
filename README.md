@@ -5,13 +5,14 @@
 >
 > 2. 开源版本剪裁了一些内部工具，仅提供业务无关的功能。
 
-![preview](doc/preview.png)
+![preview](doc/next-preview.png)
 
 ## 安装
 下载最新`dmg`镜像，拖拽安装。
-![install](doc/install.png)
 
-## 功能说明
+## 功能
+
+![](doc/demo.gif)
 
 ### 设备管理
 
@@ -36,7 +37,5 @@
 | 启动耗时 | 点击App图标后，到展示Activity的耗时情况                      |
 | 启动日志 | 启动过程中，App相关的详细日志                                |
 | 页面截屏 | 采集评测过程中的截图；由于部分手机的视频录制命令缺失（OPPO），大量截屏容易导致Mac软件假死【Beta】 |
-
-![](doc/demo.gif)
 
 **PS**: 界面采集功能处于Beta状态
