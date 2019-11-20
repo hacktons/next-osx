@@ -7,7 +7,7 @@
 ![preview](doc/next-preview.png)
 
 ## 安装
-下载最新`dmg`镜像，拖拽安装。
+下载最新`dmg`镜像，拖拽安装。传送门 => [Next.dmg](doc/Next.dmg)
 
 ## 功能
 
@@ -38,3 +38,8 @@
 | 页面截屏 | 采集评测过程中的截图；由于部分手机的视频录制命令缺失（OPPO），大量截屏容易导致Mac软件假死【Beta】 |
 
 **PS**: 界面采集功能处于Beta状态
+
+## 开发&原理
+关于Next的技术原理，请参考笔者的博客。有好的`idea/bug fix`欢迎提交PR：
+
+> [打造你的专属Mac工具](http://blog.hacktons.cn/2019/04/22/diy-mac-app/)
